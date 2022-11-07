@@ -1,0 +1,7 @@
+/Client/.vscode
+/Client/node_modules
+/Client/dist
+/FullStack.Assessment/bin
+/FullStack.Assessment/obj
+/Ocelot.Gateway/bin
+/Ocelot.Gateway/obj
